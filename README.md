@@ -3,12 +3,11 @@
 This repository contains implementations of various algorithms and problem-solving techniques developed as part of the Algorithm Design and Analysis course of Metropolitan University Bangladesh.
 
 ## Course Information
-
--**Course Title:** Algorithm Design and Analysis
-- **Course Cose:** CSE 232
-- **Language Used:** C++
-- **Compiler:** GNU G++ (C++17)
-- **Platform:** Visual Studio Code / CodeBlocks
+<br> **Course Title:** Algorithm Design and Analysis
+<br> **Course Cose:** CSE 232
+<br> **Language Used:** C++
+<br> **Compiler:** GNU G++ (C++17)
+<br> **Platform:** Visual Studio Code / CodeBlocks
 
 ## Implemented Algorithms
 
@@ -49,9 +48,9 @@ g++ Activity_Selection.cpp -o activity
 ## Author
 
 **Md. Zakir Hossain**
-- Department of Computer Science and Engineering (CSE)
-- Metropolitan University 
-- Bateshwar, Sylhet-3104, Bangladesh 
+<br> Department of Computer Science and Engineering (CSE)
+<br> Metropolitan University 
+<br> Bateshwar, Sylhet-3104, Bangladesh 
 
 ## Academic Purpose
 
