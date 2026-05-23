@@ -4,7 +4,7 @@ This repository contains implementations of various algorithms and problem-solvi
 
 ## Course Information
 <br> **Course Title:** Algorithm Design and Analysis
-<br> **Course Cose:** CSE 232
+<br> **Course Code:** CSE 232
 <br> **Language Used:** C++
 <br> **Compiler:** GNU G++ (C++17)
 <br> **Platform:** Visual Studio Code / CodeBlocks
