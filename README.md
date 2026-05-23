@@ -1,14 +1,14 @@
-Algorithm Design and Analysis Lab
+## Algorithm Design and Analysis Lab
 
 This repository contains implementations of various algorithms and problem-solving techniques developed as part of the Algorithm Design and Analysis course of Metropolitan University Bangladesh.
 
 ## Course Information
 
-**Course Title:** Algorithm Design and Analysis
-**Course Cose:** CSE 232
-**Language Used:** C++
-**Compiler:** GNU G++ (C++17)
-**Platform:** Visual Studio Code / CodeBlocks
+-**Course Title:** Algorithm Design and Analysis
+- **Course Cose:** CSE 232
+- **Language Used:** C++
+- **Compiler:** GNU G++ (C++17)
+- **Platform:** Visual Studio Code / CodeBlocks
 
 ## Implemented Algorithms
 
@@ -49,9 +49,9 @@ g++ Activity_Selection.cpp -o activity
 ## Author
 
 **Md. Zakir Hossain**
-Department of Computer Science and Engineering (CSE)
-Metropolitan University 
-Bateshwar, Sylhet-3104, Bangladesh 
+- Department of Computer Science and Engineering (CSE)
+- Metropolitan University 
+- Bateshwar, Sylhet-3104, Bangladesh 
 
 ## Academic Purpose
 
